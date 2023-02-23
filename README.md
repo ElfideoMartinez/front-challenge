@@ -1,3 +1,11 @@
+Instalación
+Clona el repositorio: git clone https://github.com/usuario/nombre-de-tu-proyecto.git
+Entra en la carpeta del proyecto: cd front-challenge
+Instala las dependencias: npm install
+Uso
+Inicia el servidor de desarrollo: npm start
+Abre el navegador y entra en http://localhost:3000
+intucciones del reto
 1. Los componentes no deben de salirse del div con id "parent" al arrastrarse
 
 2. Cada componente debe de tener una imagen única, la cual con estilos propios, no debe salir del componente al que se le hace resize y deben de tener un fit diferente "cover", "contain", etc. e
